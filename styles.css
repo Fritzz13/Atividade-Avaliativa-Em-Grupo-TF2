@@ -1,0 +1,89 @@
+body {
+  background-color: #201e1f;
+  max-width: max-content;
+  margin: auto;
+}
+
+#banner {
+  width: 100%;
+  height: 300px;
+  grid-column: ;
+}
+
+#classes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+.scout {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.scout:hover {
+  transform: scale(1.1);
+}
+
+.soldier {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.soldier:hover {
+  transform: scale(1.1);
+}
+
+.pyro {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.pyro:hover {
+  transform: scale(1.1);
+}
+
+.demoman {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.demoman:hover {
+  transform: scale(1.1);
+}
+
+.heavy {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.heavy:hover {
+  transform: scale(1.1);
+}
+
+.engie {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.engie:hover {
+  transform: scale(1.1);
+}
+
+.medic {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.medic:hover {
+  transform: scale(1.1);
+}
+
+.sniper {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.sniper:hover {
+  transform: scale(1.1);
+}
+
+.spy {
+  height: 240px;
+  transition: transform 0.3s ease;
+}
+.spy:hover {
+  transform: scale(1.1);
+}
