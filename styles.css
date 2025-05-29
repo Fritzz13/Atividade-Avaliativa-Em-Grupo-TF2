@@ -7,7 +7,14 @@ body {
 #banner {
   width: 100%;
   height: 300px;
-  grid-column: ;
+}
+
+img {
+  color: white;
+}
+
+a {
+  color: white;
 }
 
 #classes {
